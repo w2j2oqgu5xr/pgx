@@ -14,3 +14,8 @@ require golang.org/x/sync v0.1.0 // indirect
 
 // Personal fork for learning purposes - tracking upstream jackc/pgx
 // Last synced with upstream: 2024-01
+//
+// Personal notes:
+//   - Studying connection pool internals (puddle/v2)
+//   - Experimenting with query tracing hooks
+//   - See local branch 'experiment/tracing' for WIP changes
